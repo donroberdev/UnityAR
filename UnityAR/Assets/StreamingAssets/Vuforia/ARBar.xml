@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="astronauta" size="0.100000 0.100000" />
+    <ImageTarget name="PacmanT2" size="960.000000 720.000000" />
+    <ImageTarget name="PacManT" size="1920.000000 1080.000000" />
+    <ImageTarget name="Pacman2" size="720.000000 1280.000000" />
+    <ImageTarget name="pacman" size="940.000000 788.000000" />
+    <ImageTarget name="Skull" size="1600.000000 1598.000000" />
+    <ImageTarget name="Chees" size="796.000000 958.000000" />
+    <ImageTarget name="Pendon2" size="1181.000000 2362.000000" />
+    <ImageTarget name="Pendon" size="2953.000000 5906.000000" />
+    <ImageTarget name="Anonymus" size="1114.000000 1114.000000" />
+    <ImageTarget name="Mural" size="998.000000 603.000000" />
+    <ImageTarget name="ApePaint" size="1963.000000 1961.000000" />
+    <ImageTarget name="PANDA" size="1238.000000 1500.000000" />
+    <ImageTarget name="CYBERBEAR000" size="1600.000000 1600.000000" />
+    <ImageTarget name="BULLBEAR000" size="1080.000000 1077.000000" />
+    <ImageTarget name="BULL000" size="1080.000000 1080.000000" />
+  </Tracking>
+</QCARConfig>
